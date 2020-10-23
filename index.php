@@ -25,6 +25,16 @@
                                 If Else
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                                Operadores Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                Desafio Pi
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
