@@ -45,6 +45,19 @@
                                 Desafio Op. Logicos
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operador_ternario">
+                                Operador Ternario
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=switch">
+                                Switch
+                            </a>
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">
+                                Desafio switch
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
