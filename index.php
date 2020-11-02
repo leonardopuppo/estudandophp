@@ -55,6 +55,26 @@
                                 Multidimensionais
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">
+                                Array Constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=get">
+                                $_GET
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=post">
+                                $_POST
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                                Comparação Arrays
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
