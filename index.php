@@ -30,6 +30,21 @@
                                 Desafio For
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=foreach">
+                                Foreach
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                                Break/Continue
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
+                                Desafio Impressão
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
